@@ -11,7 +11,8 @@ Here is an example input image of a $16 \times 16$ Minesweeper board, with a tot
 ![Example Input Image](https://raw.githubusercontent.com/selim389/Minesweeper-Solver/refs/heads/main/Test%20Image%206.png)
 
 ## Image Preprocessing
-
+Here is the output given during the Image Preprocessing stage.
+![Example Canny Edge Detection Output Image](https://raw.githubusercontent.com/selim389/Minesweeper-Solver/refs/heads/main/cannyedge.png)
 
 ## Data Extraction
 
