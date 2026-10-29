@@ -7,3 +7,12 @@ Utilizing various computer vision techniques, this project uses image preprocess
 This section with show the input, as well as the output at every stage within this project. 
 
 ## Input
+
+
+## Image Preprocessing
+
+
+## Data Extraction
+
+
+## Logic Application & Output
