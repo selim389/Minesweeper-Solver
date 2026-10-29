@@ -7,7 +7,8 @@ Utilizing various computer vision techniques, this project uses image preprocess
 This section with show the input, as well as the output at every stage within this project. 
 
 ## Input
-![alt text](Test Image 6.png)
+Here is an example input image of a $16 \times 16$ Minesweeper board, with a total of 40 mines.
+![Example Input Image](https://raw.githubusercontent.com/selim389/Minesweeper-Solver/refs/heads/main/Test%20Image%206.png)
 
 ## Image Preprocessing
 
