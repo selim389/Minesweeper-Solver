@@ -20,3 +20,6 @@ Here is the output given during the Image Preprocessing stage.
 
 
 ## Logic Application & Output
+Here is the final output, giving the solved $16 \times 16$ 2d array.
+
+![Example Logic Application Output Image](https://raw.githubusercontent.com/selim389/Minesweeper-Solver/refs/heads/main/Logic%20Application%20Output.png)
