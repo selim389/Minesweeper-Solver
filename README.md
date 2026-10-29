@@ -7,7 +7,7 @@ Utilizing various computer vision techniques, this project uses image preprocess
 This section with show the input, as well as the output at every stage within this project. 
 
 ## Input
-
+![alt text](Test Image 6.png)
 
 ## Image Preprocessing
 
